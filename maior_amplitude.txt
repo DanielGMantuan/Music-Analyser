@@ -1,0 +1,767 @@
+tamanho: 2
+Tempo: 0.812698s, Frequência: 215.12Hz, Nota: 1, Amplitude: 147.14
+Tempo: 0.928798s, Frequência: 107.56Hz, Nota: 1, Amplitude: 401.49
+
+tamanho: 1
+Tempo: 1.021678s, Frequência: 107.56Hz, Nota: 1, Amplitude: 335.81
+
+tamanho: 2
+Tempo: 9.334422s, Frequência: 387.22Hz, Nota: 6, Amplitude: 142.72
+Tempo: 9.543401s, Frequência: 387.22Hz, Nota: 6, Amplitude: 125.68
+
+tamanho: 2
+Tempo: 10.588299s, Frequência: 107.56Hz, Nota: 1, Amplitude: 384.75
+Tempo: 10.704399s, Frequência: 107.56Hz, Nota: 1, Amplitude: 243.24
+
+tamanho: 3
+Tempo: 11.842177s, Frequência: 301.17Hz, Nota: 4, Amplitude: 164.87
+Tempo: 11.842177s, Frequência: 279.66Hz, Nota: 3, Amplitude: 159.80
+Tempo: 11.958277s, Frequência: 107.56Hz, Nota: 1, Amplitude: 351.90
+
+tamanho: 2
+Tempo: 12.004717s, Frequência: 86.05Hz, Nota: 5, Amplitude: 194.17
+Tempo: 12.538776s, Frequência: 301.17Hz, Nota: 4, Amplitude: 285.64
+
+tamanho: 2
+Tempo: 13.328254s, Frequência: 107.56Hz, Nota: 1, Amplitude: 318.18
+Tempo: 13.931973s, Frequência: 301.17Hz, Nota: 4, Amplitude: 314.62
+
+tamanho: 2
+Tempo: 14.582132s, Frequência: 301.17Hz, Nota: 4, Amplitude: 147.56
+Tempo: 14.698231s, Frequência: 107.56Hz, Nota: 1, Amplitude: 314.10
+
+tamanho: 2
+Tempo: 15.301950s, Frequência: 301.17Hz, Nota: 4, Amplitude: 353.10
+Tempo: 15.998549s, Frequência: 215.12Hz, Nota: 1, Amplitude: 231.55
+
+tamanho: 2
+Tempo: 16.091429s, Frequência: 107.56Hz, Nota: 1, Amplitude: 304.07
+Tempo: 16.671927s, Frequência: 322.68Hz, Nota: 5, Amplitude: 320.64
+
+tamanho: 2
+Tempo: 17.345306s, Frequência: 301.17Hz, Nota: 4, Amplitude: 149.50
+Tempo: 17.461406s, Frequência: 107.56Hz, Nota: 1, Amplitude: 350.63
+
+tamanho: 2
+Tempo: 18.065125s, Frequência: 301.17Hz, Nota: 4, Amplitude: 308.76
+Tempo: 18.854603s, Frequência: 107.56Hz, Nota: 1, Amplitude: 313.73
+
+tamanho: 1
+Tempo: 19.435102s, Frequência: 301.17Hz, Nota: 4, Amplitude: 332.19
+
+tamanho: 2
+Tempo: 20.224580s, Frequência: 107.56Hz, Nota: 1, Amplitude: 308.69
+Tempo: 20.828299s, Frequência: 301.17Hz, Nota: 4, Amplitude: 335.73
+
+tamanho: 2
+Tempo: 21.571338s, Frequência: 129.07Hz, Nota: 3, Amplitude: 284.75
+Tempo: 21.710658s, Frequência: 86.05Hz, Nota: 5, Amplitude: 150.66
+
+tamanho: 2
+Tempo: 22.198277s, Frequência: 301.17Hz, Nota: 4, Amplitude: 344.78
+Tempo: 22.987755s, Frequência: 107.56Hz, Nota: 1, Amplitude: 305.70
+
+tamanho: 2
+Tempo: 23.010975s, Frequência: 107.56Hz, Nota: 1, Amplitude: 226.32
+Tempo: 23.591474s, Frequência: 301.17Hz, Nota: 4, Amplitude: 283.84
+
+tamanho: 2
+Tempo: 24.334512s, Frequência: 129.07Hz, Nota: 3, Amplitude: 310.86
+Tempo: 24.961451s, Frequência: 301.17Hz, Nota: 4, Amplitude: 340.97
+
+tamanho: 2
+Tempo: 25.007891s, Frequência: 301.17Hz, Nota: 4, Amplitude: 166.50
+Tempo: 25.704490s, Frequência: 129.07Hz, Nota: 3, Amplitude: 311.92
+
+tamanho: 2
+Tempo: 26.331429s, Frequência: 301.17Hz, Nota: 4, Amplitude: 352.30
+Tempo: 26.981587s, Frequência: 279.66Hz, Nota: 3, Amplitude: 100.01
+
+tamanho: 2
+Tempo: 27.120907s, Frequência: 107.56Hz, Nota: 1, Amplitude: 292.76
+Tempo: 27.724626s, Frequência: 301.17Hz, Nota: 4, Amplitude: 334.39
+
+tamanho: 2
+Tempo: 28.467664s, Frequência: 129.07Hz, Nota: 3, Amplitude: 339.28
+Tempo: 28.583764s, Frequência: 86.05Hz, Nota: 5, Amplitude: 129.22
+
+tamanho: 2
+Tempo: 29.094603s, Frequência: 301.17Hz, Nota: 4, Amplitude: 294.03
+Tempo: 29.884082s, Frequência: 107.56Hz, Nota: 1, Amplitude: 307.67
+
+tamanho: 2
+Tempo: 30.000181s, Frequência: 86.05Hz, Nota: 5, Amplitude: 89.49
+Tempo: 30.464580s, Frequência: 322.68Hz, Nota: 5, Amplitude: 321.87
+
+tamanho: 2
+Tempo: 31.254059s, Frequência: 107.56Hz, Nota: 1, Amplitude: 329.74
+Tempo: 31.857778s, Frequência: 301.17Hz, Nota: 4, Amplitude: 344.79
+
+tamanho: 3
+Tempo: 33.227755s, Frequência: 301.17Hz, Nota: 4, Amplitude: 283.47
+Tempo: 33.692154s, Frequência: 236.63Hz, Nota: 2, Amplitude: 267.56
+Tempo: 33.994014s, Frequência: 129.07Hz, Nota: 3, Amplitude: 306.33
+
+tamanho: 3
+Tempo: 34.017234s, Frequência: 107.56Hz, Nota: 1, Amplitude: 316.42
+Tempo: 34.644172s, Frequência: 344.20Hz, Nota: 5, Amplitude: 233.50
+Tempo: 34.667392s, Frequência: 344.20Hz, Nota: 5, Amplitude: 243.03
+
+tamanho: 3
+Tempo: 35.015692s, Frequência: 344.20Hz, Nota: 5, Amplitude: 141.66
+Tempo: 35.178231s, Frequência: 215.12Hz, Nota: 1, Amplitude: 178.93
+Tempo: 35.363991s, Frequência: 172.10Hz, Nota: 5, Amplitude: 175.21
+
+tamanho: 3
+Tempo: 36.455329s, Frequência: 236.63Hz, Nota: 2, Amplitude: 280.51
+Tempo: 36.501769s, Frequência: 215.12Hz, Nota: 1, Amplitude: 273.84
+Tempo: 36.780408s, Frequência: 107.56Hz, Nota: 1, Amplitude: 312.89
+
+tamanho: 1
+Tempo: 38.220045s, Frequência: 107.56Hz, Nota: 1, Amplitude: 101.66
+
+tamanho: 2
+Tempo: 39.543583s, Frequência: 107.56Hz, Nota: 1, Amplitude: 336.73
+Tempo: 39.659683s, Frequência: 344.20Hz, Nota: 5, Amplitude: 240.29
+
+tamanho: 2
+Tempo: 40.774240s, Frequência: 258.15Hz, Nota: 3, Amplitude: 179.26
+Tempo: 40.983220s, Frequência: 215.12Hz, Nota: 1, Amplitude: 157.75
+
+tamanho: 3
+Tempo: 41.052880s, Frequência: 193.61Hz, Nota: 6, Amplitude: 217.38
+Tempo: 41.865578s, Frequência: 258.15Hz, Nota: 3, Amplitude: 221.07
+Tempo: 41.981678s, Frequência: 236.63Hz, Nota: 2, Amplitude: 255.78
+
+tamanho: 2
+Tempo: 42.074558s, Frequência: 236.63Hz, Nota: 2, Amplitude: 309.24
+Tempo: 42.283537s, Frequência: 107.56Hz, Nota: 1, Amplitude: 290.49
+
+tamanho: 1
+Tempo: 43.908934s, Frequência: 2215.76Hz, Nota: 3, Amplitude: 86.84
+
+tamanho: 2
+Tempo: 44.350113s, Frequência: 2237.27Hz, Nota: 3, Amplitude: 100.20
+Tempo: 44.953832s, Frequência: 236.63Hz, Nota: 2, Amplitude: 108.34
+
+tamanho: 2
+Tempo: 45.371791s, Frequência: 129.07Hz, Nota: 3, Amplitude: 130.37
+Tempo: 45.720091s, Frequência: 129.07Hz, Nota: 3, Amplitude: 128.46
+
+tamanho: 2
+Tempo: 46.068390s, Frequência: 129.07Hz, Nota: 3, Amplitude: 136.88
+Tempo: 46.764989s, Frequência: 129.07Hz, Nota: 3, Amplitude: 131.22
+
+tamanho: 2
+Tempo: 47.113288s, Frequência: 129.07Hz, Nota: 3, Amplitude: 129.64
+Tempo: 47.786667s, Frequência: 129.07Hz, Nota: 3, Amplitude: 129.38
+
+tamanho: 2
+Tempo: 48.134966s, Frequência: 129.07Hz, Nota: 3, Amplitude: 133.33
+Tempo: 48.831565s, Frequência: 129.07Hz, Nota: 3, Amplitude: 130.25
+
+tamanho: 2
+Tempo: 49.179864s, Frequência: 129.07Hz, Nota: 3, Amplitude: 129.02
+Tempo: 49.504943s, Frequência: 129.07Hz, Nota: 3, Amplitude: 124.88
+
+tamanho: 2
+Tempo: 50.573061s, Frequência: 129.07Hz, Nota: 3, Amplitude: 110.47
+Tempo: 50.828481s, Frequência: 236.63Hz, Nota: 2, Amplitude: 140.60
+
+tamanho: 3
+Tempo: 51.501859s, Frequência: 258.15Hz, Nota: 3, Amplitude: 158.08
+Tempo: 51.617959s, Frequência: 129.07Hz, Nota: 3, Amplitude: 134.48
+Tempo: 51.850159s, Frequência: 279.66Hz, Nota: 3, Amplitude: 139.07
+
+tamanho: 5
+Tempo: 52.128798s, Frequência: 129.07Hz, Nota: 3, Amplitude: 130.59
+Tempo: 52.360998s, Frequência: 279.66Hz, Nota: 3, Amplitude: 135.69
+Tempo: 52.546757s, Frequência: 279.66Hz, Nota: 3, Amplitude: 139.61
+Tempo: 52.871837s, Frequência: 301.17Hz, Nota: 4, Amplitude: 136.43
+Tempo: 52.987937s, Frequência: 129.07Hz, Nota: 3, Amplitude: 131.26
+
+tamanho: 3
+Tempo: 53.011156s, Frequência: 387.22Hz, Nota: 6, Amplitude: 131.62
+Tempo: 53.173696s, Frequência: 129.07Hz, Nota: 3, Amplitude: 131.67
+Tempo: 53.568435s, Frequência: 258.15Hz, Nota: 3, Amplitude: 114.54
+
+tamanho: 2
+Tempo: 54.009615s, Frequência: 236.63Hz, Nota: 2, Amplitude: 96.28
+Tempo: 54.195374s, Frequência: 236.63Hz, Nota: 2, Amplitude: 93.93
+
+tamanho: 2
+Tempo: 55.983311s, Frequência: 236.63Hz, Nota: 2, Amplitude: 206.62
+Tempo: 55.983311s, Frequência: 258.15Hz, Nota: 3, Amplitude: 203.68
+
+tamanho: 2
+Tempo: 56.052971s, Frequência: 129.07Hz, Nota: 3, Amplitude: 386.38
+Tempo: 56.679909s, Frequência: 301.17Hz, Nota: 4, Amplitude: 358.86
+
+tamanho: 3
+Tempo: 57.469388s, Frequência: 107.56Hz, Nota: 1, Amplitude: 381.45
+Tempo: 57.724807s, Frequência: 193.61Hz, Nota: 6, Amplitude: 223.86
+Tempo: 57.817687s, Frequência: 86.05Hz, Nota: 5, Amplitude: 231.27
+
+tamanho: 3
+Tempo: 58.049887s, Frequência: 322.68Hz, Nota: 5, Amplitude: 321.11
+Tempo: 58.073107s, Frequência: 301.17Hz, Nota: 4, Amplitude: 328.54
+Tempo: 58.816145s, Frequência: 129.07Hz, Nota: 3, Amplitude: 340.53
+
+tamanho: 2
+Tempo: 59.001905s, Frequência: 86.05Hz, Nota: 5, Amplitude: 193.35
+Tempo: 59.443084s, Frequência: 301.17Hz, Nota: 4, Amplitude: 364.99
+
+tamanho: 2
+Tempo: 60.186122s, Frequência: 129.07Hz, Nota: 3, Amplitude: 354.18
+Tempo: 60.813061s, Frequência: 301.17Hz, Nota: 4, Amplitude: 332.42
+
+tamanho: 2
+Tempo: 61.579320s, Frequência: 129.07Hz, Nota: 3, Amplitude: 365.23
+Tempo: 61.741859s, Frequência: 86.05Hz, Nota: 5, Amplitude: 201.48
+
+tamanho: 2
+Tempo: 62.206259s, Frequência: 301.17Hz, Nota: 4, Amplitude: 361.51
+Tempo: 62.972517s, Frequência: 107.56Hz, Nota: 1, Amplitude: 407.13
+
+tamanho: 2
+Tempo: 63.576236s, Frequência: 301.17Hz, Nota: 4, Amplitude: 351.39
+Tempo: 63.994195s, Frequência: 129.07Hz, Nota: 3, Amplitude: 308.25
+
+tamanho: 3
+Tempo: 64.342494s, Frequência: 129.07Hz, Nota: 3, Amplitude: 361.13
+Tempo: 64.946213s, Frequência: 322.68Hz, Nota: 5, Amplitude: 324.95
+Tempo: 64.969433s, Frequência: 301.17Hz, Nota: 4, Amplitude: 340.16
+
+tamanho: 2
+Tempo: 65.712472s, Frequência: 129.07Hz, Nota: 3, Amplitude: 323.05
+Tempo: 65.991111s, Frequência: 215.12Hz, Nota: 1, Amplitude: 217.07
+
+tamanho: 3
+Tempo: 66.060771s, Frequência: 129.07Hz, Nota: 3, Amplitude: 322.65
+Tempo: 66.339410s, Frequência: 301.17Hz, Nota: 4, Amplitude: 359.16
+Tempo: 66.757370s, Frequência: 107.56Hz, Nota: 1, Amplitude: 291.07
+
+tamanho: 3
+Tempo: 67.082449s, Frequência: 129.07Hz, Nota: 3, Amplitude: 336.70
+Tempo: 67.709388s, Frequência: 301.17Hz, Nota: 4, Amplitude: 329.10
+Tempo: 67.732608s, Frequência: 301.17Hz, Nota: 4, Amplitude: 310.50
+
+tamanho: 5
+Tempo: 68.498866s, Frequência: 107.56Hz, Nota: 1, Amplitude: 409.74
+Tempo: 68.847166s, Frequência: 86.05Hz, Nota: 5, Amplitude: 236.49
+Tempo: 68.870385s, Frequência: 86.05Hz, Nota: 5, Amplitude: 248.31
+Tempo: 68.893605s, Frequência: 86.05Hz, Nota: 5, Amplitude: 246.76
+Tempo: 68.916825s, Frequência: 86.05Hz, Nota: 5, Amplitude: 236.08
+
+tamanho: 3
+Tempo: 69.102585s, Frequência: 301.17Hz, Nota: 4, Amplitude: 346.29
+Tempo: 69.590204s, Frequência: 86.05Hz, Nota: 5, Amplitude: 234.65
+Tempo: 69.845624s, Frequência: 129.07Hz, Nota: 3, Amplitude: 374.61
+
+tamanho: 3
+Tempo: 70.472562s, Frequência: 301.17Hz, Nota: 4, Amplitude: 361.80
+Tempo: 70.774422s, Frequência: 86.05Hz, Nota: 5, Amplitude: 216.32
+Tempo: 70.960181s, Frequência: 86.05Hz, Nota: 5, Amplitude: 215.72
+
+tamanho: 3
+Tempo: 71.215601s, Frequência: 129.07Hz, Nota: 3, Amplitude: 344.20
+Tempo: 71.842540s, Frequência: 322.68Hz, Nota: 5, Amplitude: 318.13
+Tempo: 71.865760s, Frequência: 301.17Hz, Nota: 4, Amplitude: 321.02
+
+tamanho: 2
+Tempo: 72.492698s, Frequência: 408.73Hz, Nota: 1, Amplitude: 93.86
+Tempo: 72.608798s, Frequência: 129.07Hz, Nota: 3, Amplitude: 352.02
+
+tamanho: 2
+Tempo: 73.235737s, Frequência: 301.17Hz, Nota: 4, Amplitude: 339.12
+Tempo: 73.978776s, Frequência: 129.07Hz, Nota: 3, Amplitude: 395.51
+
+tamanho: 3
+Tempo: 74.001995s, Frequência: 107.56Hz, Nota: 1, Amplitude: 396.42
+Tempo: 74.605714s, Frequência: 301.17Hz, Nota: 4, Amplitude: 335.12
+Tempo: 74.628934s, Frequência: 301.17Hz, Nota: 4, Amplitude: 301.87
+
+tamanho: 5
+Tempo: 75.209433s, Frequência: 86.05Hz, Nota: 5, Amplitude: 239.33
+Tempo: 75.371973s, Frequência: 129.07Hz, Nota: 3, Amplitude: 342.49
+Tempo: 75.720272s, Frequência: 129.07Hz, Nota: 3, Amplitude: 309.97
+Tempo: 75.743492s, Frequência: 107.56Hz, Nota: 1, Amplitude: 311.79
+Tempo: 75.998912s, Frequência: 301.17Hz, Nota: 4, Amplitude: 363.51
+
+tamanho: 2
+Tempo: 76.022132s, Frequência: 301.17Hz, Nota: 4, Amplitude: 231.92
+Tempo: 76.741950s, Frequência: 129.07Hz, Nota: 3, Amplitude: 348.26
+
+tamanho: 2
+Tempo: 77.368889s, Frequência: 86.05Hz, Nota: 5, Amplitude: 114.48
+Tempo: 77.601088s, Frequência: 408.73Hz, Nota: 1, Amplitude: 114.72
+
+tamanho: 3
+Tempo: 78.158367s, Frequência: 107.56Hz, Nota: 1, Amplitude: 375.35
+Tempo: 78.297687s, Frequência: 236.63Hz, Nota: 2, Amplitude: 317.64
+Tempo: 78.762086s, Frequência: 301.17Hz, Nota: 4, Amplitude: 315.98
+
+tamanho: 2
+Tempo: 79.505125s, Frequência: 129.07Hz, Nota: 3, Amplitude: 366.15
+Tempo: 79.714104s, Frequência: 86.05Hz, Nota: 5, Amplitude: 198.90
+
+tamanho: 3
+Tempo: 80.132063s, Frequência: 301.17Hz, Nota: 4, Amplitude: 361.78
+Tempo: 80.364263s, Frequência: 86.05Hz, Nota: 5, Amplitude: 196.45
+Tempo: 80.875102s, Frequência: 129.07Hz, Nota: 3, Amplitude: 355.39
+
+tamanho: 2
+Tempo: 81.502041s, Frequência: 322.68Hz, Nota: 5, Amplitude: 322.37
+Tempo: 81.873560s, Frequência: 193.61Hz, Nota: 6, Amplitude: 183.52
+
+tamanho: 2
+Tempo: 82.268299s, Frequência: 129.07Hz, Nota: 3, Amplitude: 341.58
+Tempo: 82.895238s, Frequência: 301.17Hz, Nota: 4, Amplitude: 345.77
+
+tamanho: 2
+Tempo: 83.638277s, Frequência: 129.07Hz, Nota: 3, Amplitude: 353.39
+Tempo: 83.800816s, Frequência: 86.05Hz, Nota: 5, Amplitude: 220.03
+
+tamanho: 2
+Tempo: 84.265215s, Frequência: 301.17Hz, Nota: 4, Amplitude: 373.68
+Tempo: 84.799274s, Frequência: 193.61Hz, Nota: 6, Amplitude: 213.76
+
+tamanho: 5
+Tempo: 85.054694s, Frequência: 107.56Hz, Nota: 1, Amplitude: 406.87
+Tempo: 85.426213s, Frequência: 86.05Hz, Nota: 5, Amplitude: 250.70
+Tempo: 85.449433s, Frequência: 86.05Hz, Nota: 5, Amplitude: 244.64
+Tempo: 85.635193s, Frequência: 322.68Hz, Nota: 5, Amplitude: 321.82
+Tempo: 85.658413s, Frequência: 301.17Hz, Nota: 4, Amplitude: 326.91
+
+tamanho: 3
+Tempo: 86.053152s, Frequência: 129.07Hz, Nota: 3, Amplitude: 309.44
+Tempo: 86.401451s, Frequência: 129.07Hz, Nota: 3, Amplitude: 374.70
+Tempo: 86.749751s, Frequência: 129.07Hz, Nota: 3, Amplitude: 347.93
+
+tamanho: 2
+Tempo: 87.028390s, Frequência: 301.17Hz, Nota: 4, Amplitude: 371.44
+Tempo: 87.771429s, Frequência: 129.07Hz, Nota: 3, Amplitude: 327.40
+
+tamanho: 2
+Tempo: 88.259048s, Frequência: 408.73Hz, Nota: 1, Amplitude: 101.59
+Tempo: 88.769887s, Frequência: 258.15Hz, Nota: 3, Amplitude: 74.96
+
+tamanho: 3
+Tempo: 89.164626s, Frequência: 129.07Hz, Nota: 3, Amplitude: 345.45
+Tempo: 89.327166s, Frequência: 86.05Hz, Nota: 5, Amplitude: 225.20
+Tempo: 89.791565s, Frequência: 301.17Hz, Nota: 4, Amplitude: 338.48
+
+tamanho: 2
+Tempo: 90.557823s, Frequência: 107.56Hz, Nota: 1, Amplitude: 391.51
+Tempo: 90.697143s, Frequência: 86.05Hz, Nota: 5, Amplitude: 163.99
+
+tamanho: 2
+Tempo: 91.161542s, Frequência: 301.17Hz, Nota: 4, Amplitude: 335.61
+Tempo: 91.927800s, Frequência: 129.07Hz, Nota: 3, Amplitude: 358.22
+
+tamanho: 2
+Tempo: 92.554739s, Frequência: 301.17Hz, Nota: 4, Amplitude: 344.36
+Tempo: 92.670839s, Frequência: 107.56Hz, Nota: 1, Amplitude: 126.40
+
+tamanho: 2
+Tempo: 93.320998s, Frequência: 107.56Hz, Nota: 1, Amplitude: 390.91
+Tempo: 93.924717s, Frequência: 301.17Hz, Nota: 4, Amplitude: 345.20
+
+tamanho: 2
+Tempo: 94.342676s, Frequência: 129.07Hz, Nota: 3, Amplitude: 294.73
+Tempo: 94.714195s, Frequência: 107.56Hz, Nota: 1, Amplitude: 350.36
+
+tamanho: 2
+Tempo: 95.294694s, Frequência: 301.17Hz, Nota: 4, Amplitude: 348.77
+Tempo: 95.991293s, Frequência: 215.12Hz, Nota: 1, Amplitude: 183.76
+
+tamanho: 2
+Tempo: 96.084172s, Frequência: 107.56Hz, Nota: 1, Amplitude: 402.46
+Tempo: 96.687891s, Frequência: 301.17Hz, Nota: 4, Amplitude: 332.28
+
+tamanho: 2
+Tempo: 97.430930s, Frequência: 129.07Hz, Nota: 3, Amplitude: 349.58
+Tempo: 97.779229s, Frequência: 129.07Hz, Nota: 3, Amplitude: 340.48
+
+tamanho: 2
+Tempo: 98.057868s, Frequência: 301.17Hz, Nota: 4, Amplitude: 359.57
+Tempo: 98.824127s, Frequência: 129.07Hz, Nota: 3, Amplitude: 305.28
+
+tamanho: 5
+Tempo: 99.102766s, Frequência: 258.15Hz, Nota: 3, Amplitude: 243.66
+Tempo: 99.218866s, Frequência: 236.63Hz, Nota: 2, Amplitude: 219.92
+Tempo: 99.242086s, Frequência: 236.63Hz, Nota: 2, Amplitude: 223.00
+Tempo: 99.427846s, Frequência: 322.68Hz, Nota: 5, Amplitude: 291.22
+Tempo: 99.822585s, Frequência: 215.12Hz, Nota: 1, Amplitude: 267.28
+
+tamanho: 2
+Tempo: 100.008345s, Frequência: 193.61Hz, Nota: 6, Amplitude: 198.57
+Tempo: 100.194104s, Frequência: 129.07Hz, Nota: 3, Amplitude: 325.16
+
+tamanho: 2
+Tempo: 105.766893s, Frequência: 107.56Hz, Nota: 1, Amplitude: 466.03
+Tempo: 105.882993s, Frequência: 107.56Hz, Nota: 1, Amplitude: 257.19
+
+tamanho: 1
+Tempo: 110.480544s, Frequência: 301.17Hz, Nota: 4, Amplitude: 288.68
+
+tamanho: 2
+Tempo: 111.270023s, Frequência: 107.56Hz, Nota: 1, Amplitude: 335.91
+Tempo: 111.850522s, Frequência: 322.68Hz, Nota: 5, Amplitude: 286.77
+
+tamanho: 2
+Tempo: 112.523900s, Frequência: 301.17Hz, Nota: 4, Amplitude: 149.13
+Tempo: 112.640000s, Frequência: 107.56Hz, Nota: 1, Amplitude: 304.09
+
+tamanho: 2
+Tempo: 113.243719s, Frequência: 301.17Hz, Nota: 4, Amplitude: 315.36
+Tempo: 113.986757s, Frequência: 129.07Hz, Nota: 3, Amplitude: 319.25
+
+tamanho: 2
+Tempo: 114.009977s, Frequência: 107.56Hz, Nota: 1, Amplitude: 311.45
+Tempo: 114.613696s, Frequência: 301.17Hz, Nota: 4, Amplitude: 350.62
+
+tamanho: 2
+Tempo: 115.403175s, Frequência: 107.56Hz, Nota: 1, Amplitude: 301.52
+Tempo: 115.983673s, Frequência: 301.17Hz, Nota: 4, Amplitude: 328.68
+
+tamanho: 2
+Tempo: 116.006893s, Frequência: 301.17Hz, Nota: 4, Amplitude: 314.40
+Tempo: 116.773152s, Frequência: 107.56Hz, Nota: 1, Amplitude: 356.18
+
+tamanho: 1
+Tempo: 117.376871s, Frequência: 301.17Hz, Nota: 4, Amplitude: 306.09
+
+tamanho: 2
+Tempo: 118.166349s, Frequência: 107.56Hz, Nota: 1, Amplitude: 318.66
+Tempo: 118.746848s, Frequência: 301.17Hz, Nota: 4, Amplitude: 337.94
+
+tamanho: 2
+Tempo: 119.420227s, Frequência: 301.17Hz, Nota: 4, Amplitude: 182.77
+Tempo: 119.536327s, Frequência: 107.56Hz, Nota: 1, Amplitude: 316.00
+
+tamanho: 2
+Tempo: 120.140045s, Frequência: 301.17Hz, Nota: 4, Amplitude: 334.21
+Tempo: 120.883084s, Frequência: 129.07Hz, Nota: 3, Amplitude: 289.43
+
+tamanho: 2
+Tempo: 121.510023s, Frequência: 301.17Hz, Nota: 4, Amplitude: 344.20
+Tempo: 121.858322s, Frequência: 301.17Hz, Nota: 4, Amplitude: 271.40
+
+tamanho: 2
+Tempo: 122.299501s, Frequência: 107.56Hz, Nota: 1, Amplitude: 303.74
+Tempo: 122.880000s, Frequência: 322.68Hz, Nota: 5, Amplitude: 293.92
+
+tamanho: 2
+Tempo: 123.646259s, Frequência: 129.07Hz, Nota: 3, Amplitude: 302.93
+Tempo: 123.762358s, Frequência: 86.05Hz, Nota: 5, Amplitude: 92.43
+
+tamanho: 2
+Tempo: 124.273197s, Frequência: 301.17Hz, Nota: 4, Amplitude: 342.02
+Tempo: 124.969796s, Frequência: 215.12Hz, Nota: 1, Amplitude: 222.85
+
+tamanho: 2
+Tempo: 125.016236s, Frequência: 129.07Hz, Nota: 3, Amplitude: 316.86
+Tempo: 125.643175s, Frequência: 301.17Hz, Nota: 4, Amplitude: 336.92
+
+tamanho: 2
+Tempo: 126.316553s, Frequência: 301.17Hz, Nota: 4, Amplitude: 178.99
+Tempo: 126.432653s, Frequência: 107.56Hz, Nota: 1, Amplitude: 313.16
+
+tamanho: 2
+Tempo: 127.036372s, Frequência: 301.17Hz, Nota: 4, Amplitude: 331.88
+Tempo: 127.802630s, Frequência: 107.56Hz, Nota: 1, Amplitude: 329.09
+
+tamanho: 1
+Tempo: 128.406349s, Frequência: 301.17Hz, Nota: 4, Amplitude: 296.61
+
+tamanho: 2
+Tempo: 129.195828s, Frequência: 107.56Hz, Nota: 1, Amplitude: 302.00
+Tempo: 129.776327s, Frequência: 322.68Hz, Nota: 5, Amplitude: 317.70
+
+tamanho: 2
+Tempo: 130.449705s, Frequência: 301.17Hz, Nota: 4, Amplitude: 163.11
+Tempo: 130.565805s, Frequência: 107.56Hz, Nota: 1, Amplitude: 318.17
+
+tamanho: 1
+Tempo: 131.169524s, Frequência: 301.17Hz, Nota: 4, Amplitude: 342.20
+
+tamanho: 2
+Tempo: 132.539501s, Frequência: 301.17Hz, Nota: 4, Amplitude: 285.86
+Tempo: 132.934240s, Frequência: 236.63Hz, Nota: 2, Amplitude: 265.18
+
+tamanho: 2
+Tempo: 133.003900s, Frequência: 236.63Hz, Nota: 2, Amplitude: 293.81
+Tempo: 133.328980s, Frequência: 107.56Hz, Nota: 1, Amplitude: 316.15
+
+tamanho: 2
+Tempo: 134.489977s, Frequência: 215.12Hz, Nota: 1, Amplitude: 173.26
+Tempo: 134.861497s, Frequência: 129.07Hz, Nota: 3, Amplitude: 116.46
+
+tamanho: 3
+Tempo: 135.767075s, Frequência: 236.63Hz, Nota: 2, Amplitude: 304.88
+Tempo: 135.929615s, Frequência: 193.61Hz, Nota: 6, Amplitude: 252.03
+Tempo: 135.952834s, Frequência: 193.61Hz, Nota: 6, Amplitude: 236.96
+
+tamanho: 1
+Tempo: 136.092154s, Frequência: 107.56Hz, Nota: 1, Amplitude: 322.24
+
+tamanho: 1
+Tempo: 137.508571s, Frequência: 107.56Hz, Nota: 1, Amplitude: 121.49
+
+tamanho: 2
+Tempo: 138.855329s, Frequência: 107.56Hz, Nota: 1, Amplitude: 337.05
+Tempo: 138.971429s, Frequência: 344.20Hz, Nota: 5, Amplitude: 251.47
+
+tamanho: 2
+Tempo: 139.017868s, Frequência: 344.20Hz, Nota: 5, Amplitude: 230.42
+Tempo: 139.389388s, Frequência: 344.20Hz, Nota: 5, Amplitude: 259.08
+
+tamanho: 3
+Tempo: 140.248526s, Frequência: 236.63Hz, Nota: 2, Amplitude: 131.98
+Tempo: 140.364626s, Frequência: 193.61Hz, Nota: 6, Amplitude: 211.61
+Tempo: 140.689705s, Frequência: 150.59Hz, Nota: 4, Amplitude: 132.33
+
+tamanho: 2
+Tempo: 141.386304s, Frequência: 236.63Hz, Nota: 2, Amplitude: 317.96
+Tempo: 141.595283s, Frequência: 107.56Hz, Nota: 1, Amplitude: 291.61
+
+tamanho: 1
+Tempo: 142.895601s, Frequência: 1462.83Hz, Nota: 6, Amplitude: 77.16
+
+tamanho: 1
+Tempo: 143.545760s, Frequência: 2215.76Hz, Nota: 3, Amplitude: 86.07
+
+tamanho: 2
+Tempo: 144.683537s, Frequência: 129.07Hz, Nota: 3, Amplitude: 127.69
+Tempo: 144.962177s, Frequência: 236.63Hz, Nota: 2, Amplitude: 113.55
+
+tamanho: 2
+Tempo: 145.031837s, Frequência: 129.07Hz, Nota: 3, Amplitude: 127.34
+Tempo: 145.380136s, Frequência: 129.07Hz, Nota: 3, Amplitude: 130.57
+
+tamanho: 2
+Tempo: 146.076735s, Frequência: 129.07Hz, Nota: 3, Amplitude: 135.72
+Tempo: 146.401814s, Frequência: 129.07Hz, Nota: 3, Amplitude: 130.01
+
+tamanho: 2
+Tempo: 147.098413s, Frequência: 129.07Hz, Nota: 3, Amplitude: 131.60
+Tempo: 147.446712s, Frequência: 129.07Hz, Nota: 3, Amplitude: 135.26
+
+tamanho: 2
+Tempo: 148.143311s, Frequência: 129.07Hz, Nota: 3, Amplitude: 128.12
+Tempo: 148.816689s, Frequência: 129.07Hz, Nota: 3, Amplitude: 125.73
+
+tamanho: 2
+Tempo: 149.768707s, Frequência: 279.66Hz, Nota: 3, Amplitude: 80.97
+Tempo: 149.884807s, Frequência: 129.07Hz, Nota: 3, Amplitude: 109.77
+
+tamanho: 5
+Tempo: 150.140227s, Frequência: 236.63Hz, Nota: 2, Amplitude: 160.66
+Tempo: 150.488526s, Frequência: 236.63Hz, Nota: 2, Amplitude: 128.82
+Tempo: 150.581406s, Frequência: 129.07Hz, Nota: 3, Amplitude: 127.59
+Tempo: 150.813605s, Frequência: 258.15Hz, Nota: 3, Amplitude: 168.76
+Tempo: 150.929705s, Frequência: 129.07Hz, Nota: 3, Amplitude: 125.63
+
+tamanho: 3
+Tempo: 151.161905s, Frequência: 279.66Hz, Nota: 3, Amplitude: 147.51
+Tempo: 151.440544s, Frequência: 129.07Hz, Nota: 3, Amplitude: 137.14
+Tempo: 151.835283s, Frequência: 301.17Hz, Nota: 4, Amplitude: 141.12
+
+tamanho: 3
+Tempo: 152.183583s, Frequência: 301.17Hz, Nota: 4, Amplitude: 132.76
+Tempo: 152.601542s, Frequência: 322.68Hz, Nota: 5, Amplitude: 136.72
+Tempo: 152.787302s, Frequência: 322.68Hz, Nota: 5, Amplitude: 145.98
+
+tamanho: 2
+Tempo: 153.042721s, Frequência: 365.71Hz, Nota: 6, Amplitude: 134.01
+Tempo: 153.391020s, Frequência: 365.71Hz, Nota: 6, Amplitude: 118.73
+
+tamanho: 2
+Tempo: 155.364717s, Frequência: 129.07Hz, Nota: 3, Amplitude: 383.41
+Tempo: 155.991655s, Frequência: 301.17Hz, Nota: 4, Amplitude: 354.82
+
+tamanho: 2
+Tempo: 156.014875s, Frequência: 301.17Hz, Nota: 4, Amplitude: 266.79
+Tempo: 156.781134s, Frequência: 107.56Hz, Nota: 1, Amplitude: 365.22
+
+tamanho: 2
+Tempo: 157.013333s, Frequência: 451.76Hz, Nota: 1, Amplitude: 109.80
+Tempo: 157.361633s, Frequência: 322.68Hz, Nota: 5, Amplitude: 316.96
+
+tamanho: 2
+Tempo: 158.127891s, Frequência: 129.07Hz, Nota: 3, Amplitude: 335.96
+Tempo: 158.754830s, Frequência: 301.17Hz, Nota: 4, Amplitude: 356.25
+
+tamanho: 1
+Tempo: 159.497868s, Frequência: 129.07Hz, Nota: 3, Amplitude: 338.04
+
+tamanho: 2
+Tempo: 160.124807s, Frequência: 301.17Hz, Nota: 4, Amplitude: 344.52
+Tempo: 160.891066s, Frequência: 129.07Hz, Nota: 3, Amplitude: 363.24
+
+tamanho: 2
+Tempo: 161.053605s, Frequência: 86.05Hz, Nota: 5, Amplitude: 241.82
+Tempo: 161.518005s, Frequência: 301.17Hz, Nota: 4, Amplitude: 356.09
+
+tamanho: 2
+Tempo: 162.261043s, Frequência: 129.07Hz, Nota: 3, Amplitude: 396.45
+Tempo: 162.887982s, Frequência: 301.17Hz, Nota: 4, Amplitude: 338.81
+
+tamanho: 3
+Tempo: 163.305941s, Frequência: 129.07Hz, Nota: 3, Amplitude: 298.91
+Tempo: 163.631020s, Frequência: 129.07Hz, Nota: 3, Amplitude: 329.09
+Tempo: 163.979320s, Frequência: 129.07Hz, Nota: 3, Amplitude: 298.28
+
+tamanho: 2
+Tempo: 164.002540s, Frequência: 129.07Hz, Nota: 3, Amplitude: 308.64
+Tempo: 164.281179s, Frequência: 301.17Hz, Nota: 4, Amplitude: 335.82
+
+tamanho: 3
+Tempo: 165.024218s, Frequência: 129.07Hz, Nota: 3, Amplitude: 319.82
+Tempo: 165.395737s, Frequência: 107.56Hz, Nota: 1, Amplitude: 297.73
+Tempo: 165.651156s, Frequência: 301.17Hz, Nota: 4, Amplitude: 361.51
+
+tamanho: 3
+Tempo: 166.069116s, Frequência: 107.56Hz, Nota: 1, Amplitude: 292.08
+Tempo: 166.394195s, Frequência: 129.07Hz, Nota: 3, Amplitude: 327.39
+Tempo: 166.951474s, Frequência: 193.61Hz, Nota: 6, Amplitude: 251.15
+
+tamanho: 2
+Tempo: 167.021134s, Frequência: 301.17Hz, Nota: 4, Amplitude: 330.93
+Tempo: 167.787392s, Frequência: 129.07Hz, Nota: 3, Amplitude: 377.30
+
+tamanho: 1
+Tempo: 168.414331s, Frequência: 301.17Hz, Nota: 4, Amplitude: 330.40
+
+tamanho: 2
+Tempo: 169.157370s, Frequência: 129.07Hz, Nota: 3, Amplitude: 364.12
+Tempo: 169.784308s, Frequência: 301.17Hz, Nota: 4, Amplitude: 360.37
+
+tamanho: 2
+Tempo: 170.527347s, Frequência: 129.07Hz, Nota: 3, Amplitude: 318.52
+Tempo: 170.643447s, Frequência: 86.05Hz, Nota: 5, Amplitude: 110.17
+
+tamanho: 2
+Tempo: 171.177506s, Frequência: 301.17Hz, Nota: 4, Amplitude: 328.81
+Tempo: 171.920544s, Frequência: 129.07Hz, Nota: 3, Amplitude: 375.94
+
+tamanho: 2
+Tempo: 172.083084s, Frequência: 86.05Hz, Nota: 5, Amplitude: 243.70
+Tempo: 172.547483s, Frequência: 301.17Hz, Nota: 4, Amplitude: 353.04
+
+tamanho: 2
+Tempo: 173.290522s, Frequência: 129.07Hz, Nota: 3, Amplitude: 393.53
+Tempo: 173.917460s, Frequência: 301.17Hz, Nota: 4, Amplitude: 325.51
+
+tamanho: 2
+Tempo: 174.683719s, Frequência: 129.07Hz, Nota: 3, Amplitude: 344.65
+Tempo: 174.939138s, Frequência: 279.66Hz, Nota: 3, Amplitude: 194.49
+
+tamanho: 2
+Tempo: 175.032018s, Frequência: 129.07Hz, Nota: 3, Amplitude: 308.08
+Tempo: 175.310658s, Frequência: 301.17Hz, Nota: 4, Amplitude: 361.94
+
+tamanho: 2
+Tempo: 176.053696s, Frequência: 129.07Hz, Nota: 3, Amplitude: 339.27
+Tempo: 176.610975s, Frequência: 172.10Hz, Nota: 5, Amplitude: 132.67
+
+tamanho: 3
+Tempo: 177.470113s, Frequência: 107.56Hz, Nota: 1, Amplitude: 347.66
+Tempo: 177.609433s, Frequência: 236.63Hz, Nota: 2, Amplitude: 356.71
+Tempo: 177.725533s, Frequência: 236.63Hz, Nota: 2, Amplitude: 359.17
+
+tamanho: 2
+Tempo: 178.073832s, Frequência: 301.17Hz, Nota: 4, Amplitude: 319.70
+Tempo: 178.816871s, Frequência: 129.07Hz, Nota: 3, Amplitude: 373.67
+
+tamanho: 2
+Tempo: 179.025850s, Frequência: 86.05Hz, Nota: 5, Amplitude: 224.93
+Tempo: 179.443810s, Frequência: 301.17Hz, Nota: 4, Amplitude: 339.51
+
+tamanho: 3
+Tempo: 180.186848s, Frequência: 129.07Hz, Nota: 3, Amplitude: 342.15
+Tempo: 180.813787s, Frequência: 301.17Hz, Nota: 4, Amplitude: 315.83
+Tempo: 180.837007s, Frequência: 301.17Hz, Nota: 4, Amplitude: 297.94
+
+tamanho: 2
+Tempo: 181.463946s, Frequência: 365.71Hz, Nota: 6, Amplitude: 76.76
+Tempo: 181.580045s, Frequência: 129.07Hz, Nota: 3, Amplitude: 324.51
+
+tamanho: 2
+Tempo: 182.206984s, Frequência: 301.17Hz, Nota: 4, Amplitude: 336.62
+Tempo: 182.950023s, Frequência: 129.07Hz, Nota: 3, Amplitude: 350.68
+
+tamanho: 2
+Tempo: 183.112562s, Frequência: 86.05Hz, Nota: 5, Amplitude: 229.75
+Tempo: 183.576961s, Frequência: 301.17Hz, Nota: 4, Amplitude: 366.07
+
+tamanho: 2
+Tempo: 184.366440s, Frequência: 107.56Hz, Nota: 1, Amplitude: 391.13
+Tempo: 184.970159s, Frequência: 301.17Hz, Nota: 4, Amplitude: 315.76
+
+tamanho: 3
+Tempo: 185.364898s, Frequência: 129.07Hz, Nota: 3, Amplitude: 273.12
+Tempo: 185.388118s, Frequência: 129.07Hz, Nota: 3, Amplitude: 262.98
+Tempo: 185.713197s, Frequência: 129.07Hz, Nota: 3, Amplitude: 369.51
+
+tamanho: 3
+Tempo: 186.061497s, Frequência: 129.07Hz, Nota: 3, Amplitude: 307.20
+Tempo: 186.340136s, Frequência: 301.17Hz, Nota: 4, Amplitude: 369.42
+Tempo: 186.572336s, Frequência: 86.05Hz, Nota: 5, Amplitude: 288.40
+
+tamanho: 2
+Tempo: 187.083175s, Frequência: 129.07Hz, Nota: 3, Amplitude: 337.48
+Tempo: 187.710113s, Frequência: 516.29Hz, Nota: 3, Amplitude: 103.87
+
+tamanho: 2
+Tempo: 188.476372s, Frequência: 129.07Hz, Nota: 3, Amplitude: 331.08
+Tempo: 188.638912s, Frequência: 86.05Hz, Nota: 5, Amplitude: 262.65
+
+tamanho: 2
+Tempo: 189.103311s, Frequência: 301.17Hz, Nota: 4, Amplitude: 325.97
+Tempo: 189.869569s, Frequência: 107.56Hz, Nota: 1, Amplitude: 407.40
+
+tamanho: 2
+Tempo: 190.473288s, Frequência: 301.17Hz, Nota: 4, Amplitude: 333.77
+Tempo: 190.728707s, Frequência: 86.05Hz, Nota: 5, Amplitude: 122.16
+
+tamanho: 2
+Tempo: 191.239546s, Frequência: 129.07Hz, Nota: 3, Amplitude: 337.87
+Tempo: 191.866485s, Frequência: 301.17Hz, Nota: 4, Amplitude: 334.91
+
+tamanho: 2
+Tempo: 192.632744s, Frequência: 107.56Hz, Nota: 1, Amplitude: 393.43
+Tempo: 192.981043s, Frequência: 107.56Hz, Nota: 1, Amplitude: 295.22
+
+tamanho: 2
+Tempo: 193.236463s, Frequência: 301.17Hz, Nota: 4, Amplitude: 349.85
+Tempo: 193.979501s, Frequência: 129.07Hz, Nota: 3, Amplitude: 350.55
+
+tamanho: 2
+Tempo: 194.002721s, Frequência: 129.07Hz, Nota: 3, Amplitude: 327.48
+Tempo: 194.606440s, Frequência: 301.17Hz, Nota: 4, Amplitude: 359.91
+
+tamanho: 2
+Tempo: 195.395918s, Frequência: 107.56Hz, Nota: 1, Amplitude: 397.35
+Tempo: 195.999637s, Frequência: 301.17Hz, Nota: 4, Amplitude: 325.94
+
+tamanho: 2
+Tempo: 196.742676s, Frequência: 129.07Hz, Nota: 3, Amplitude: 374.89
+Tempo: 196.905215s, Frequência: 86.05Hz, Nota: 5, Amplitude: 240.57
+
+tamanho: 3
+Tempo: 197.090975s, Frequência: 129.07Hz, Nota: 3, Amplitude: 327.31
+Tempo: 197.369615s, Frequência: 301.17Hz, Nota: 4, Amplitude: 361.70
+Tempo: 197.578594s, Frequência: 86.05Hz, Nota: 5, Amplitude: 225.74
+
+tamanho: 3
+Tempo: 198.135873s, Frequência: 129.07Hz, Nota: 3, Amplitude: 303.15
+Tempo: 198.739592s, Frequência: 322.68Hz, Nota: 5, Amplitude: 280.02
+Tempo: 198.762812s, Frequência: 301.17Hz, Nota: 4, Amplitude: 271.18
+
+tamanho: 3
+Tempo: 199.087891s, Frequência: 236.63Hz, Nota: 2, Amplitude: 236.06
+Tempo: 199.134331s, Frequência: 215.12Hz, Nota: 1, Amplitude: 241.58
+Tempo: 199.505850s, Frequência: 129.07Hz, Nota: 3, Amplitude: 311.90
+

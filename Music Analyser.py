@@ -4,6 +4,7 @@ from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 import math
 import librosa.display
+import json
 
 
 # TODO:
@@ -12,7 +13,7 @@ import librosa.display
 #   - dependendo um gap de 0.5 entre um segundo e outro?
 
 # Carregar o arquivo de áudio
-audio_file = r"C:\Users\NOTE155\Desktop\Spleeter\Desmeon - Hellcat [NCS Release]\drums.wav"
+audio_file = r"C:\Users\NOTE155\Desktop\Spleeter\Musics\Desmeon - Hellcat [NCS Release]\drums.wav"
 y, sr = librosa.load(audio_file)
 
 # Normalizar o áudio
@@ -27,7 +28,7 @@ D = librosa.stft(y, n_fft=n_fft, hop_length=hop_length)
 D_db = librosa.amplitude_to_db(np.abs(D), ref=np.max)
 
 # Binarizar as frequências
-limiar = -30  # Limiar para considerar frequências relevantes
+limiar = -25  # Limiar para considerar frequências relevantes
 relevantes = D_db > limiar
 
 # Aplicar K-means para agrupar as frequências relevantes
@@ -91,10 +92,13 @@ def escrever_arquivo(path, conjunto, flag=True):
                 f.write("\n")
     else:
         with open(path, "w") as f:
+            json_data = ""
             for info in conjunto:
                 for nota in info:
-                    f.write("new TimeTableEntry {{ elapsed = {}f, pitch = {} }},\n".format(
-                        nota['tempo'], nota['nota']))
+                    json_data = json_data + \
+                        f"{nota['tempo']:.6f}|{nota['nota']};"
+
+            f.write(json_data)
 
 
 def pegar_notas_maior_amplitude(info_conj, n):
